@@ -3,8 +3,7 @@
 #### Technical Skills: Python, SQL, AWS, MATLAB, SAP BW/4HANA, Microsoft Excel, Tableau
 
 ### Education
--BS, Applied and Computational Mathematics | University of Southern California (May 2024)
--Minor in Applied Analytics | University of Southern California (May 2024)
+- BS, Applied and Computational Mathematics | University of Southern California (May 2024)
 
 ### Work Experience 
 
