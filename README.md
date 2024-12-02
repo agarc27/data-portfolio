@@ -4,6 +4,7 @@
 
 ### Education
 BS, Applied and Computational Mathematics | University of Southern California (May 2024)
+- Minor in Applied Analytics (Data Science)
 
 ### Work Experience 
 
