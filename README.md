@@ -15,7 +15,7 @@ Data Scientist @ University of Southern California
 
 ### Projects
 
-[Global COVID-19 Tracker (December 2022)](assets/img/GlobalCovid19Dash.png)
+#### [Global COVID-19 Tracker (December 2022)](assets/img/GlobalCovid19Dash.png)
 -
 
 
