@@ -3,7 +3,7 @@
 #### Technical Skills: Python, Keras, Pandas, Matplotlib, Tensorflow, AWS, SAP BW/4HANA, Microsoft Excel, Tableau, Machine Learning, Neural Networks, AI
 
 ### Education
-- BS, Applied and Computational Mathematics | University of Southern California (May 2024)
+BS, Applied and Computational Mathematics | University of Southern California (May 2024)
 
 ### Work Experience 
 
