@@ -1,9 +1,9 @@
 # Data Analyst
 
 ### Technical Skills 
-#### - Languages: Python, SQL, NoSQL, R
-#### - Packages: Keras, Pandas, Matplotlib, Tensorflow, AWS, Seaborn
-#### - Technologies: SAP BW/4HANA, Amazon Web Services (AWS), Microsoft Excel, Tableau, Machine Learning, Deep Learning, Convolutional Neural Networks, AI
+- **Languages:** Python, SQL, NoSQL, R
+- **Packages:** Keras, Pandas, Matplotlib, Tensorflow, AWS, Seaborn
+- **Technologies:** SAP BW/4HANA, Amazon Web Services (AWS), Microsoft Excel, Tableau, Machine Learning, Deep Learning, Convolutional Neural Networks, AI
 
 ### Education
 BS, Applied and Computational Mathematics | University of Southern California (May 2024)
