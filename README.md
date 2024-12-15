@@ -25,7 +25,7 @@ Machine Learning Analyst @ University of Southern California (ITP Program)
 
 ### Projects
 
-[Global COVID-19 Tracker](assets/img/GlobalCovid19Dash.png)
+**[Global COVID-19 Tracker](assets/img/GlobalCovid19Dash.png)**
 - Created a dashboard in Tableau to illustrate and visualize various trends and patterns surrounding the COVID-19 pandemic including daily positive cases, daily deaths over time, and number of cases by country.
 
 Personal Finanical Budget Tracker
