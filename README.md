@@ -13,14 +13,16 @@ Freelance AI Trainer @ Scale AI
 - Enhanced AI model performance by rewriting and refining mathematical prompt responses, improving problem-solving accuracy of the model.
 
 Data Analyst @ University of Southern California (ITP Program)
-- Project 1
-- Project 2
+- Created and populated a database in MySQL Workbench using sales company data and later created queries with said database to provide insight on the company’s products, vendors, etc
+- Built, modeled, and queried a MongoDB database using Yelp data to identify business performance and trends among various stores.
+
+Machine Learning Analyst @ University of Southern California (ITP Program)
+- 
 
 ### Projects
 
 #### [Global COVID-19 Tracker (December 2022)](assets/img/GlobalCovid19Dash.png)
-- Created a dashboard in Tableau to illustrate and visualize various trends and patterns surrounding the COVID-19 pandemic including daily positive cases,
-  daily deaths over time, and number of cases by country.
+- Created a dashboard in Tableau to illustrate and visualize various trends and patterns surrounding the COVID-19 pandemic including daily positive cases, daily deaths over time, and number of cases by country.
 
 ### Awards
 
