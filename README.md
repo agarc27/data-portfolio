@@ -29,10 +29,10 @@ Machine Learning Analyst @ University of Southern California (ITP Program)
 - Created a dashboard in Tableau to illustrate and visualize various trends and patterns surrounding the COVID-19 pandemic including daily positive cases, daily deaths over time, and number of cases by country.
 
 Personal Finanical Budget Tracker
-- C
+- Created a finance tracker in Microsoft Excel and designed various visualizations concerning personal expenses such as subscriptions and food; later created a linear regression model in Python to predict future spending costs 
 
 Mapping of Los Angeles' Homeless Population
-- C
+- Created various visualizations surrounding the homeless population of the Los Angeles area including a map showcasing population density by county and a treemap highlighting the counties with the largest homeless populaitons through the use of the Los Angeles Homeless Services Authority's (LAHSA) public datasets and CARTO.
 
 ### Awards
 
