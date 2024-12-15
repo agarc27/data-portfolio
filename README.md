@@ -1,4 +1,4 @@
-# Data Scientist
+# Data Analyst
 
 #### Technical Skills: Python, Keras, Pandas, Matplotlib, Tensorflow, AWS, SAP BW/4HANA, Microsoft Excel, Tableau, Machine Learning, Neural Networks, AI
 
@@ -8,17 +8,19 @@ BS, Applied and Computational Mathematics | University of Southern California (M
 
 ### Work Experience 
 
-Outlier AI
+Freelance AI Trainer @ Scale AI
+- Artificial intelligence company with a focus on training AI applications using labeled data.
+- Enhanced AI model performance by rewriting and refining mathematical prompt responses, improving problem-solving accuracy of the model.
 
-Data Scientist @ University of Southern California
+Data Analyst @ University of Southern California (ITP Program)
 - Project 1
 - Project 2
 
 ### Projects
 
 #### [Global COVID-19 Tracker (December 2022)](assets/img/GlobalCovid19Dash.png)
--
-
+- Created a dashboard in Tableau to illustrate and visualize various trends and patterns surrounding the COVID-19 pandemic including daily positive cases,
+  daily deaths over time, and number of cases by country.
 
 ### Awards
 
